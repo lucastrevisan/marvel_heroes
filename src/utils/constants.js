@@ -1,0 +1,8 @@
+export const DEFAULT_PAGE_SIZE = 30;
+export const STORAGE_KEY = "store";
+export const FETCH_POKEMONS = "FETCH_POKEMONS";
+export const SEARCH_POKEMONS = "SEARCH_POKEMONS";
+export const FETCH_ALL_POKEMONS = "FETCH_ALL_POKEMONS";
+export const SET_FAVORITES = "SET_FAVORITES";
+export const VIEW_POKEMON = "VIEW_POKEMON";
+export const FETCH_VERSION_GROUPS = "FETCH_VERSION_GROUPS";
